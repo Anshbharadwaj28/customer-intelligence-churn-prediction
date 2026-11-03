@@ -1,0 +1,18 @@
+
+# Core data processing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+
+
+
+
